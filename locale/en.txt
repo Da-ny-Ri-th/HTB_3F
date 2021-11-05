@@ -22,41 +22,40 @@ Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = HATTHA BANK PROJECT, 3F
 ## Media
 
 ### Subtitle
-panorama_73564CD4_5C0B_F7B4_41C0_C266D31A3577.subtitle = 1-The design and scope of works for the gym including the counter \
+panorama_C8B3E2E2_DEC3_60F1_41E0_9DC14DFE7304.subtitle = 1-The design and scope of works for the gym including the counter \
 and the equipment is not part of CMED scope and is to the operator.
-panorama_7357393B_5C0B_DEF3_41D6_7F06C2DB0421.subtitle = 1-The design and scope of works for the gym including the counter \
+panorama_CB026CC4_DEC3_2731_41E4_F6FCDCEF73C4.subtitle = 1-The design and scope of works for the gym including the counter \
 and the equipment is not part of CMED scope and is to the operator.
-panorama_73575533_5C0B_B6F3_4198_AEDC1B2D02E0.subtitle = 1-The design and scope of works for the gym including the counter \
+panorama_CB2D7698_DEC3_6350_41DA_6DC93BB74CE3.subtitle = 1-The design and scope of works for the gym including the counter \
 and the equipment is not part of CMED scope and is to the operator.
-panorama_7357BB3D_5C0B_52F7_41CF_F941DC8393A0.subtitle = 1-The design and scope of works for the gym including the counter \
+panorama_CB3CAA30_DEC3_2350_41B2_BA7260F1C888.subtitle = 1-The design and scope of works for the gym including the counter \
 and the equipment is not part of CMED scope and is to the operator.
-panorama_7357D07C_5C0B_CF75_41C0_9DF3A3B99B31.subtitle = 1-The design and scope of works for the gym including the counter \
-and the equipment is not part of CMED scope and is to the operator.
-panorama_7357D68F_5C0B_D393_41CE_5E1F05F94B14.subtitle = 1-The design and scope of works for the gym including the counter \
-and the equipment is not part of CMED scope and is to the operator.
-panorama_7357FEF1_5C0B_B38F_41C1_6515DA389870.subtitle = 1-The design and scope of works for the gym including the counter \
-and the equipment is not part of CMED scope and is to the operator.
-panorama_73FF2156_5C0B_4EB4_41CA_56DE816772E7.subtitle = 1-The design and scope of works for the gym including the counter \
-and the equipment is not part of CMED scope and is to the operator.
-panorama_C7A522B3_92B7_21F0_41B5_C70DDFAC021C.subtitle = 1-The design and scope of works for the gym including the counter \
-and the equipment is not part of CMED scope and is to the operator.
-panorama_EC48EDCD_E5F7_67D2_41D2_639ACCD82ECC.subtitle = 1- CMED Provide (Power Socket, Data & Power Point) \
+panorama_CB471F87_DEC7_613D_41E0_F4B1DB1C3C76.subtitle = 1- CMED Provide (Power Socket, Data & Power Point) \
 2- Projector Screen with remote-control is by client \
 3- Projector & mechanism remote-control is by client
+panorama_CB6E1A26_DEC3_E370_41D8_D2D8413EE5FD.subtitle = 1-The design and scope of works for the gym including the counter \
+and the equipment is not part of CMED scope and is to the operator.
+panorama_CBCAFBD8_DEC2_E0D0_41CF_81B357BFCCF2.subtitle = 1-The design and scope of works for the gym including the counter \
+and the equipment is not part of CMED scope and is to the operator.
+panorama_F40C04D4_EE63_8C7E_41DB_74AAC1F35EC8.subtitle = 1-The design and scope of works for the gym including the counter \
+and the equipment is not part of CMED scope and is to the operator.
+panorama_F4203B09_EE60_85D6_41E8_168B9B83A919.subtitle = 1-The design and scope of works for the gym including the counter \
+and the equipment is not part of CMED scope and is to the operator.
+panorama_F5D5FF1E_EE61_BDEA_41EA_44DACC382977.subtitle = 1-The design and scope of works for the gym including the counter \
+and the equipment is not part of CMED scope and is to the operator.
 
 ### Title
 map_86D14045_92B5_2091_41C4_191DAFB950A6.label = 3F - Key layout
-panorama_73564CD4_5C0B_F7B4_41C0_C266D31A3577.label = Note:
-panorama_7357393B_5C0B_DEF3_41D6_7F06C2DB0421.label = Note:
-panorama_73575533_5C0B_B6F3_4198_AEDC1B2D02E0.label = Note:
-panorama_7357BB3D_5C0B_52F7_41CF_F941DC8393A0.label = Note:
-panorama_7357D07C_5C0B_CF75_41C0_9DF3A3B99B31.label = Note:
-panorama_7357D68F_5C0B_D393_41CE_5E1F05F94B14.label = Note:
-panorama_7357FEF1_5C0B_B38F_41C1_6515DA389870.label = Note:
-panorama_73FF2156_5C0B_4EB4_41CA_56DE816772E7.label = Note:
-panorama_87FBE219_92B5_20B0_41CE_2E3F67472B54.label = 3F_2
-panorama_C7A522B3_92B7_21F0_41B5_C70DDFAC021C.label = Note:
-panorama_EC48EDCD_E5F7_67D2_41D2_639ACCD82ECC.label = Note:
+panorama_C8B3E2E2_DEC3_60F1_41E0_9DC14DFE7304.label = Note:
+panorama_CB026CC4_DEC3_2731_41E4_F6FCDCEF73C4.label = Note:
+panorama_CB2D7698_DEC3_6350_41DA_6DC93BB74CE3.label = Note:
+panorama_CB3CAA30_DEC3_2350_41B2_BA7260F1C888.label = Note:
+panorama_CB471F87_DEC7_613D_41E0_F4B1DB1C3C76.label = Note:
+panorama_CB6E1A26_DEC3_E370_41D8_D2D8413EE5FD.label = Note:
+panorama_CBCAFBD8_DEC2_E0D0_41CF_81B357BFCCF2.label = Note:
+panorama_F40C04D4_EE63_8C7E_41DB_74AAC1F35EC8.label = Note:
+panorama_F4203B09_EE60_85D6_41E8_168B9B83A919.label = Note:
+panorama_F5D5FF1E_EE61_BDEA_41EA_44DACC382977.label = Note:
 
 ## Action
 
