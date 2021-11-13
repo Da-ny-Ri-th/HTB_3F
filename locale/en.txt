@@ -45,7 +45,7 @@ panorama_F5D5FF1E_EE61_BDEA_41EA_44DACC382977.subtitle = 1-The design and scope 
 and the equipment is not part of CMED scope and is to the operator.
 
 ### Title
-map_86D14045_92B5_2091_41C4_191DAFB950A6.label = 3F - Key layout
+map_3A9DDA41_19AD_E0D3_41B6_02D1CE9D7001.label = 3F - Key layout
 panorama_C8B3E2E2_DEC3_60F1_41E0_9DC14DFE7304.label = Note:
 panorama_CB026CC4_DEC3_2731_41E4_F6FCDCEF73C4.label = Note:
 panorama_CB2D7698_DEC3_6350_41DA_6DC93BB74CE3.label = Note:
